@@ -6,7 +6,7 @@
 
 ### Realice tambien el README que pedian las indicaciones ahi pueden conocer un poco de mi y lo que me gusta uwu
 
-### Subi un proyecto de bases de datos que tenia con mis compañeros del curso para probar los repositorios y esas cosas, igual sus datos estan en los archivos :3
+### Subi un proyecto de bases de datos que tenia con mis compañeros del curso para probar los repositorios y esas cosas, igual sus datos estan en los archivos :3 el repositorio se llama "Taqueria-Taco-Riendo-Fundamentos-Bases-de-Datos"
 
 ### Dejo un bello dibujo modificado por mi apartir de un juego que me gusta muchisimo
 ![ZeroGit](https://user-images.githubusercontent.com/53308949/187108390-98267df6-cffe-4bad-9d3a-921e1de4753a.png)
